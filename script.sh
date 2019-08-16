@@ -5,6 +5,6 @@ if [[ $(curl --silent http://18.216.36.145:85/|grep hello) ]]; then
 else
     exit 1
 fi
-
+echo bla
 docker stop mytestcontainer
 docker image rm dave1 nginx
