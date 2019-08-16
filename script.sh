@@ -1,1 +1,1 @@
-docker build . -t dave1
+sudo docker build . -t dave1
