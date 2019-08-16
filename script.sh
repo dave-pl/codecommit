@@ -1,1 +1,1 @@
-error checking context: 'can't stat 'docker build . -t dave1
+docker build . -t dave1
