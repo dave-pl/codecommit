@@ -6,5 +6,6 @@ else
     exit 1
 fi
 echo bla
-docker stop mytestcontainer
+docker stop м2mytestcontainer
 docker image rm dave1 nginx
+31313131
