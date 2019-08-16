@@ -8,4 +8,4 @@ fi
 echo bla
 docker stop м2mytestcontainer
 docker image rm dave1 nginx
-31313131
+313131314
